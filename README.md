@@ -21,33 +21,10 @@ This project is a purely **Front-End** solution built on standard web technologi
 * **HTML5:** Structure and Semantics.
 * **CSS3:** Custom styles for animations, gradients, and glassmorphism effects.
 * **JavaScript (Vanilla JS):** Simple DOM manipulation for mobile menu and interactive elements.
-* **Tailwind CSS (via CDN):** Utility-first CSS framework for rapid styling and responsiveness.
-* **Inter Font:** A modern, highly readable font imported from Google Fonts.
 
 ## 🚀 Getting Started
 
-To view and run this portfolio locally, you simply need a web browser.
-
-### Prerequisites
-
-You don't need to install any external dependencies since **Tailwind CSS** is included via a CDN link (`<script src="https://cdn.tailwindcss.com"></script>`).
-
-### Installation and Run
-
-1.  **Clone the Repository:**
-    ```bash
-    git clone [repository-url]
-    ```
-2.  **Navigate to the project directory:**
-    ```bash
-    cd [project-folder-name]
-    ```
-3.  **Open the file:** Simply open the `index.html` file in your preferred web browser (e.g., Chrome, Firefox, Safari).
-
-    ```bash
-    # Example command (may vary by OS)
-    open index.html
-    ```
+To view and run this portfolio locally, you simply need a web browser
 
 ## ⚙️ Customization
 
